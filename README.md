@@ -1,5 +1,6 @@
 # Electrical-Grid-System
 This system is used by an electricity authority to manage and reach customers and electricity producers details in a fast easy way. 
+
 PROGRAM FEATURES
 1.	Add new Customer:
 this feature will let the user to add customer details such as name, phone and ID.
